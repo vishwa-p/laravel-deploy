@@ -13,6 +13,10 @@ php artisan migrate:refresh --seed
 php artisan serve
 ```
 
+## Login Credentials
+**Email**: hites.297@gmail.com
+**Password**: password
+
 ## Hosting
 Live site at [http://shielded-river-60872.herokuapp.com/](http://shielded-river-60872.herokuapp.com/)
 
