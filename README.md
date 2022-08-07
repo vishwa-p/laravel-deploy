@@ -18,6 +18,16 @@ php artisan serve
 
 **Password**: password
 
+## API Routes
+| Method | Path | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/projects` | Gets list of projects |
+| `GET` | `/api/contents` | Gets list of text contents |
+| `GET` | `/api/experiences` | Gets list of job experiences |
+| `GET` | `/api/qualifications` | Gets list of qualifications |
+| `GET` | `/api/skills` | Gets list of skills |
+| `GET` | `/api/socialmedia` | Gets list of social media links |
+
 ## Hosting
 Live site at [http://shielded-river-60872.herokuapp.com/](http://shielded-river-60872.herokuapp.com/)
 
